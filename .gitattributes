@@ -1,7 +1,0 @@
-Content/Mannequin filter=lfs diff=lfs merge=lfs -text
-Content/Maps filter=lfs diff=lfs merge=lfs -text
-Content/Materials filter=lfs diff=lfs merge=lfs -text
-Content/Models filter=lfs diff=lfs merge=lfs -text
-Content/Blueprints filter=lfs diff=lfs merge=lfs -text
-Content/Collections filter=lfs diff=lfs merge=lfs -text
-Content/Developers filter=lfs diff=lfs merge=lfs -text
